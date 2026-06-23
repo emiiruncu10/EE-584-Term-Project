@@ -4,8 +4,8 @@ TERM PROJECT: TENNIS BALL TRACKING & LOCALIZATION BENCHMARK (TRACKNET vs CV)
 ================================================================================
 
 This document is prepared for the instructor/assistant evaluating the project 
-to smoothly run the Jupyter Notebook files (TrackNet_Dataset1_Updated-3.ipynb 
-and TrackNet_Dataset2_Updated-2.ipynb) in the Google Colab environment and 
+to smoothly run the Jupyter Notebook files (TrackNet_Dataset1.ipynb 
+and TrackNet_Dataset2.ipynb) in the Google Colab environment and 
 verify the outputs.
 
 --------------------------------------------------------------------------------
