@@ -72,8 +72,6 @@ tier, potential limitations and their solutions are listed below:
    MOG2 + Kalman Filter, HSV Segmentation, CAMShift, and Lucas-Kanade Optical 
    Flow methods; and present summary tables as terminal outputs.
 
-================================================================================
 Youtube Link: https://www.youtube.com/watch?v=5mnEtxN5TVk
 Paper Link: https://arxiv.org/abs/1907.03698
-================================================================================
 
